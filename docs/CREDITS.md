@@ -12,7 +12,7 @@
     ℝ𝕐𝔸ℕ𝔼 | Coloso (<a href="https://x.com/YRY_0"><b>@YRY_0"</b></a>) replied : That's right! Actually, they're only listening to the sound of the waves lol🤗
   </p>
   <p>
-    <a href="https://dummy3ye.github.io/waytosea/">
+    <a href="https://x.com/YRY_0">
       <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=X.COM&message=@YRY_0&logoColor=102238&colorA=0C172A&colorB=99B3CA"/>
     </a>
   </p>
