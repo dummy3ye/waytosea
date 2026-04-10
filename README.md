@@ -16,8 +16,7 @@
       <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=WEBSITE&message=WAYTOSEA&logoColor=102238&colorA=0C172A&colorB=99B3CA"/>
     </a>
   </p>
-</div>
-<h6 align="center">
+  <h6 align="center">
   <a href="https://github.com/">Wallpapers</a>
   ·
   <a href="https://github.com/">Themes</a>
