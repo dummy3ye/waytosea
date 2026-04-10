@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dummy3ye/waytosea/refs/heads/main/website/assets/seaphone.jpg" align="left" height="370" style="margin-right: 20px;">
+<img src="https://raw.githubusercontent.com/dummy3ye/waytosea/refs/heads/main/website/assets/seaphone.jpg" align="left" height="360" style="margin-right: 20px;">
 <div style="overflow: hidden;">
   <h3 style="margin-bottom: 0; height: 2px; width: 2px; border: none;">Way To Sea</h3>
   <h6>
@@ -8,7 +8,6 @@
   <p>
     a theme containing something about the sea, and the blue water,
     something just calls us from those deep blue horizon.
-    maybe the seawater still wakes something in our heart
   </p>
   <p>
     <a href="https://dummy3ye.github.io/waytosea/">
@@ -19,9 +18,7 @@
   <a href="https://github.com/">Wallpapers</a>
   ·
   <a href="https://github.com/">Themes</a>
-  ·
-  <a href="https://github.com/">Docs</a>
-  ·
+  .
   <a href="https://github.com/">Credits</a>
 </h6>
 
