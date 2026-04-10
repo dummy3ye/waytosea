@@ -15,11 +15,11 @@
     </a>
   </p>
   <h6 align="center">
-  <a href="https://github.com/">Wallpapers</a>
+  <a href="https://github.com/dummy3ye/waytosea/tree/main/assets/wallpapers">Wallpapers</a>
   ·
-  <a href="https://github.com/">Themes</a>
+  <a href="">Themes</a>
   .
-  <a href="https://github.com/">Credits</a>
+  <a href="https://github.com/dummy3ye/waytosea/tree/main/docs/CREDITS.md">Credits</a>
 </h6>
 
 <br clear="left" />
