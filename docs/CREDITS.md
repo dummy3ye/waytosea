@@ -1,10 +1,11 @@
 ## Original Artists
 
-<img src="https://raw.githubusercontent.com/dummy3ye/waytosea/refs/heads/main/website/assets/seaphone.jpg" align="left" height="270" style="margin-right: 20px;">
+<img src="https://raw.githubusercontent.com/dummy3ye/waytosea/refs/heads/main/website/assets/seaphone.jpg" align="left" height="290" style="margin-right: 20px;">
 <div style="overflow: hidden;">
   <h3 style="margin-bottom: 0; height: 2px; width: 2px; border: none;">Two Hearts One Sea</h3>
   <h6>
-  by ℝ𝕐𝔸ℕ𝔼 | Coloso (<a href="https://x.com/YRY_0"><b>@YRY_0</b></a>)
+  <a href="https://github.com/dummy3ye/waytosea/blob/main/assets/wallpapers/seaphone.jpg"><b>~/assets/wallpapers/seaphone.jpg"</a><br>
+    by ℝ𝕐𝔸ℕ𝔼 | Coloso (<a href="https://x.com/YRY_0"><b>@YRY_0</b></a>)
   </h6>
   <hr align="left" style="height: 1px; border: none; background-color: #30363d; margin-top: 5px; margin-bottom: 15px;">
   <p align="left">
