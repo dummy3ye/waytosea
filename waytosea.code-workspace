@@ -1,6 +1,10 @@
 {
   "folders": [
     {
+      "name": "workflows",
+      "path": ".github/workflows"
+    },
+    {
       "name": "waytosea",
       "path": "."
     },
