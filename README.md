@@ -7,7 +7,7 @@
   <hr align="left" style="height: 1px; border: none; background-color: #30363d; margin-top: 5px; margin-bottom: 15px;">
   <p>
     a theme containing something about the sea, and the blue water,<br>
-    something just calls us from those deep blue horizon.<br>
+    something just calls us from those deep blue horizon.
     maybe the seawater still wakes something in our heart
   </p>
   
