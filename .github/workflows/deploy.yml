@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # This is the key change:
-          path: './docs' 
+          path: './website' 
 
       - name: Deploy to GitHub Pages
         id: deployment
