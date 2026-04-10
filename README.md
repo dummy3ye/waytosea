@@ -6,11 +6,10 @@
   </h6>
   <hr align="left" style="height: 1px; border: none; background-color: #30363d; margin-top: 5px; margin-bottom: 15px;">
   <p>
-    a theme containing something about the sea, and the blue water,<br>
+    a theme containing something about the sea, and the blue water,
     something just calls us from those deep blue horizon.
     maybe the seawater still wakes something in our heart
   </p>
-  
   <p>
     <a href="https://dummy3ye.github.io/waytosea/">
       <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=WEBSITE&message=WAYTOSEA&logoColor=102238&colorA=0C172A&colorB=99B3CA"/>
