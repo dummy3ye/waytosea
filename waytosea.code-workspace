@@ -28,7 +28,8 @@
     "files.exclude": {
       "website": true,
       "assets": true,
-      "**/.git": true
+      "**/.git": true,
+      ".github/workflows": true
     },
     "workbench.colorCustomizations": {
       "statusBar.background": "#0a0a0a",
