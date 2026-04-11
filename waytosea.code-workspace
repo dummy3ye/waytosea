@@ -17,6 +17,10 @@
       "path": "assets"
     },
     {
+      "name": "screenshots",
+      "path": "ss"
+    },
+    {
       "name": "docs",
       "path": "docs"
     }
