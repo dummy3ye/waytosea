@@ -2,28 +2,28 @@
   "folders": [
     {
       "name": "workflows",
-      "path": ".github/workflows"
+      "path": ".github/workflows",
     },
     {
       "name": "waytosea",
-      "path": "."
+      "path": ".",
     },
     {
       "name": "webpage",
-      "path": "website"
+      "path": "website",
     },
     {
       "name": "assets",
-      "path": "assets"
+      "path": "assets",
     },
     {
       "name": "screenshots",
-      "path": "ss"
+      "path": "ss",
     },
     {
       "name": "docs",
-      "path": "docs"
-    }
+      "path": "docs",
+    },
   ],
   "settings": {
     "editor.fontFamily": "JetBrains Mono",
@@ -34,12 +34,12 @@
       "assets": false,
       "docs": true,
       "**/.git": true,
-      ".github/workflows": true
+      ".github/workflows": true,
     },
     "workbench.colorCustomizations": {
       "statusBar.background": "#0a0a0a",
-      "statusBar.foreground": "#fafafa"
+      "statusBar.foreground": "#fafafa",
     },
-    "liveServer.settings.multiRootWorkspaceName": "waytosea"
-  }
+    "liveServer.settings.multiRootWorkspaceName": "website",
+  },
 }

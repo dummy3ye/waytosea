@@ -29,10 +29,14 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      - name: Prepare Content
+        run: |
+          # Copy the docs folder into website/docs so it can be served
+          cp -r docs website/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # This is the key change:
           path: './website' 
 
       - name: Deploy to GitHub Pages
