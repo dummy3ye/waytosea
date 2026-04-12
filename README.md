@@ -2,7 +2,7 @@
 <div style="overflow: hidden;">
   <h3 style="margin-bottom: 0; height: 2px; width: 2px; border: none;">Way To Sea</h3>
   <h6>
-  <a href="https://catppuccin.com/pronunciation.mp3">/ˌweɪ təˈsiː/</a>
+  <a href="#">/ˌweɪ təˈsiː/</a>
   </h6>
   <hr align="left" style="height: 1px; border: none; background-color: #30363d; margin-top: 5px; margin-bottom: 15px;">
   <p>
