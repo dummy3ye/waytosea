@@ -32,6 +32,7 @@
     "files.exclude": {
       "website": true,
       "assets": false,
+      "docs": true,
       "**/.git": true,
       ".github/workflows": true
     },
