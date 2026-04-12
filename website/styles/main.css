@@ -182,7 +182,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 0;
-    background-image: url("../assets/seaphone.jpg");
+    background-image: url("../assets/seaheart.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -352,6 +352,10 @@ body {
 }
 
 @media (max-width: 720px) {
+    .hero-panel {
+        background-image: url("../assets/seaheart-phone.png");
+    }
+
     .navbar {
         padding: 1rem 1.5rem;
         flex-direction: row;
