@@ -31,3 +31,6 @@
   <a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=c9cbff"/></a>   
 </p>
 &nbsp;
+
+
+this part will have the routing of the repo like how to navigate
