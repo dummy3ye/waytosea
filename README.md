@@ -6,8 +6,8 @@
   </h6>
   <hr align="left" style="height: 1px; border: none; background-color: #30363d; margin-top: 5px; margin-bottom: 15px;">
   <p>
-    a theme containing something about the sea, and the blue water,
-    something just calls us from those deep blue horizon.
+    a theme containing something about the sea and the blue water.
+    something is there in those deep blue horizons.
   </p>
   <p>
     <a href="https://dummy3ye.github.io/waytosea/">
