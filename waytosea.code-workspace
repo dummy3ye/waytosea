@@ -40,6 +40,6 @@
       "statusBar.background": "#0a0a0a",
       "statusBar.foreground": "#fafafa",
     },
-    "liveServer.settings.multiRootWorkspaceName": "website",
+    "liveServer.settings.multiRootWorkspaceName": null,
   },
 }
