@@ -22,4 +22,4 @@ Your contribution is not complete until the artist is properly credited. Please 
 - **Conventional Commits:** Use the standard `feat:`, `fix:`, or `style:` prefixes for all your commit messages.
 
 ## Code of Conduct
-Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to ensure a respectful and safe environment for all artists and contributors.
+Please review our [Code of Conduct](docs/CODE_OF_CONDUCT.md) before contributing to ensure a respectful and safe environment for all artists and contributors.
