@@ -17,8 +17,7 @@ We are committed to providing a welcoming and inclusive environment for all cont
 - **Offensive language or inappropriate content**
 - Spam or malicious activity
 - Copyright or intellectual property violations
-- Any form of *abusive behavior*
-
+- Any form of _abusive behavior_
 
 ## Enforcement
 

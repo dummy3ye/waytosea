@@ -32,6 +32,5 @@
 </p>
 &nbsp;
 
-
 this part will have the routing of the repo like how to navigate
 and more desc about themes and stuff

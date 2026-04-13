@@ -1,7 +1,4 @@
 {
-  "recommendations": [
-    "esbenp.prettier-vscode",
-    "ritwickdey.LiveServer"
-  ],
+  "recommendations": ["esbenp.prettier-vscode", "ritwickdey.LiveServer"],
   "unwantedRecommendations": ["eamodio.gitlens"]
 }
