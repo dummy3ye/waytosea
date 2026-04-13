@@ -34,3 +34,11 @@
 
 this part will have the routing of the repo like how to navigate
 and more desc about themes and stuff
+
+## Navigation
+
+- [Installation Guide](./INSTALLATION.md)
+- [Contributing Guidelines](./CONTRIBUTING.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Security Policy](./SECURITY.md)
+- [Credits](./CREDITS.md)
