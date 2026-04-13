@@ -26,6 +26,20 @@ Your contribution is not complete until the artist is properly credited. Please 
 - **No Emojis:** Per our guidelines, keep the code and documentation clean and professional—no emojis in the UI or assets.
 - **Conventional Commits:** Use the standard `feat:`, `fix:`, or `style:` prefixes for all your commit messages.
 
+## Code Quality
+
+To maintain high standards, we use automated linting tools. All changes must pass these checks before being merged.
+
+- **Stylelint:** Enforces consistent styling for all CSS files.
+- **ShellCheck:** Ensures Shell scripts are robust and error-free.
+- **Husky:** These checks run automatically as a pre-commit hook.
+
+You can run the linting manually using:
+
+```bash
+npm run lint
+```
+
 ## Code of Conduct
 
 Please review our [Code of Conduct](docs/CODE_OF_CONDUCT.md) before contributing to ensure a respectful and safe environment for all artists and contributors.
