@@ -3,3 +3,5 @@ GEMINI.md
 /ss**
 /temp**
 node_modules/
+.husky
+.gitingore
