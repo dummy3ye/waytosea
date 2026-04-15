@@ -30,9 +30,7 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Prepare Content
-        run: |
-          # Copy the docs folder into website/docs so it can be served
-          cp -r docs website/
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

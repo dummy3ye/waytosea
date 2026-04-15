@@ -17,9 +17,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Prepare Content
-        run: |
-          # Match deployment logic by copying docs into website
-          cp -r docs website/
+        run: npm run build
 
       - name: Audit with Lighthouse
         uses: treosh/lighthouse-ci-action@v12
