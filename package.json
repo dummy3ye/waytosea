@@ -3,13 +3,15 @@
     "husky": "^9.1.7",
     "shellcheck": "^3.1.0",
     "stylelint": "^17.9.0",
-    "stylelint-config-standard": "^40.0.0"
+    "stylelint-config-standard": "^40.0.0",
+    "rimraf": "^5.0.0",
+    "cpx": "^1.5.0"
   },
   "scripts": {
     "prepare": "husky",
     "lint": "npm run lint:css && npm run lint:sh",
     "lint:css": "stylelint \"**/*.css\"",
     "lint:sh": "shellcheck .husky/pre-commit",
-    "build": "rm -rf website/docs && cp -r docs website/"
+    "build": "rimraf website/docs && cpx \"docs/**\" website/"
   }
 }
