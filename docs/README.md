@@ -42,3 +42,13 @@ and more desc about themes and stuff
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Security Policy](./SECURITY.md)
 - [Credits](./CREDITS.md)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=dummy3ye%2Fwaytosea&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=dummy3ye/waytosea&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=dummy3ye/waytosea&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=dummy3ye/waytosea&type=date&legend=top-left" />
+ </picture>
+</a>
